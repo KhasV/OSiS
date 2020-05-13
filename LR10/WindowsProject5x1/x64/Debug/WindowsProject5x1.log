@@ -1,0 +1,6 @@
+﻿  WindowsProject5x1.cpp
+C:\Users\Varva\Desktop\DISC\OSiS\LR10\WindowsProject5x1\WindowsProject5x1.cpp(162,11): warning C4244: =: преобразование "LPARAM" в "int", возможна потеря данных
+C:\Users\Varva\Desktop\DISC\OSiS\LR10\WindowsProject5x1\WindowsProject5x1.cpp(168,11): warning C4244: =: преобразование "LPARAM" в "int", возможна потеря данных
+C:\Users\Varva\Desktop\DISC\OSiS\LR10\WindowsProject5x1\WindowsProject5x1.cpp(151,12): warning C4101: wmEvent: неиспользованная локальная переменная
+C:\Users\Varva\Desktop\DISC\OSiS\LR10\WindowsProject5x1\WindowsProject5x1.cpp(151,6): warning C4101: wmId: неиспользованная локальная переменная
+  WindowsProject5x1.vcxproj -> C:\Users\Varva\Desktop\DISC\OSiS\LR10\x64\Debug\WindowsProject5x1.exe
